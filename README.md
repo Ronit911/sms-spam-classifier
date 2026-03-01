@@ -90,8 +90,9 @@ The application allows users to:
 
 ## Project Structure
 
+```
 sms-spam-classifier/
-
+│
 ├── data/
 │   └── spam.csv
 │
@@ -112,6 +113,7 @@ sms-spam-classifier/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ---
 
