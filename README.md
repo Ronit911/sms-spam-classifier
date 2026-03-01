@@ -137,7 +137,7 @@ sms-spam-classifier/
 
 Clone Repository
 
-git clone https://github.com/<your-username>/sms-spam-classifier.git
+git clone https://github.com/Ronit911/sms-spam-classifier.git
 
 cd sms-spam-classifier
 
@@ -175,5 +175,5 @@ streamlit run app.py
 
 ## Author
 
-Your Name  
+Ronit 
 Machine Learning Enthusiast
